@@ -5,9 +5,10 @@ export default function HomePage() {
 			<p className="mt-6 text-2xl sm:text-3xl font-semibold text-gray-800">Jaisi Jarurat Vaisi Care</p>
 			<p className="mt-6 text-base sm:text-lg text-gray-700 leading-7 sm:leading-8">
 				Providing support, guidance, hope and personalized care for
-				<a href="#" className="text-[#04509C] font-semibold hover:underline"> cancer patients</a>
+				<a href="#" className="text-[#04509C] font-semibold hover:underline"> cancer patients </a>
 				and their families. Here to ensure you never face your journey alone.
 			</p>
 		</div>
 	)
 }
+
